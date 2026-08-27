@@ -25,4 +25,7 @@ How power flows and relay protections
 📱 **Phone:** [(747) 255-9982](tel:+17472559982)  
 📍 **Location:** Salt Lake City, UT  
 💼 **LinkedIn:** [Charles Langer](https://www.linkedin.com/in/charles-langer-67a765217)  
-📄 **Resume:** [View My Resume](Charles Langer Resume rev2 (4th Year) (3).pdf)
+📄 **Resume:** <a href ="Charles Langer Resume rev2 (4th Year) (3).pdf">Download the CV here (pdf file)</a>
+
+[View My Resume](Charles Langer Resume rev2 (4th Year) (3).pdf)
+
