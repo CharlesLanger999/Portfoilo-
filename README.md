@@ -1,4 +1,4 @@
-<img width="754" height="989" alt="TPSS 1-line" src="https://github.com/user-attachments/assets/914b6810-9796-4517-b1fa-78345633340e" />
+
 <!--Section 1: Introduce yourself-->
 ## ABOUT ME
 
@@ -13,6 +13,6 @@ I enjoy taking a problem, understanding how the system needs to operate, and tur
 *A glimpse of some of the projects I was talking about.*
 
 **A One-Line Diagram of the Traction Power Substation I helped to design.**
-![image](TPSS 1-line.jpg)
+![image](<img width="754" height="989" alt="TPSS 1-line" src="https://github.com/user-attachments/assets/914b6810-9796-4517-b1fa-78345633340e" />)
 
 How power flows and relay protections
