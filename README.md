@@ -10,3 +10,8 @@ I enjoy taking a problem, understanding how the system needs to operate, and tur
 
 ## MY PORTFOLIO
 *A glimpse of some of the projects I was talking about.*
+
+**A One-Line Diagram of the Traction Power Substation I helped to design.**
+![image](TPSS 1-line.jpg)
+
+How power flows and relay protections
