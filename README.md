@@ -13,6 +13,16 @@ I enjoy taking a problem, understanding how the system needs to operate, and tur
 *A glimpse of some of the projects I was talking about.*
 
 **A One-Line Diagram of the Traction Power Substation I helped to design.**
-![image](<img width="754" height="989" alt="TPSS 1-line" src="https://github.com/user-attachments/assets/914b6810-9796-4517-b1fa-78345633340e" />)
+![image](TPSS 1-Line.jpg)
 
 How power flows and relay protections
+
+[Read More] LinkedIn to powerpoint
+
+##CONTACT ME
+
+📧 **Email:** [charleslanger999@gmail.com](mailto:charleslanger999@gmail.com)  
+📱 **Phone:** [(747) 255-9982](tel:+17472559982)  
+📍 **Location:** Salt Lake City, UT  
+💼 **LinkedIn:** [Charles Langer](https://www.linkedin.com/in/charles-langer-67a765217)  
+📄 **Resume:** [View My Resume](./Charles_Langer_Resume.pdf)
