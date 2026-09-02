@@ -23,8 +23,8 @@ How power flows and relay protections
 
 📧 **Email:** [charleslanger999@gmail.com](mailto:charleslanger999@gmail.com)  
 📱 **Phone:** [(747) 255-9982](tel:+17472559982)  
-📍 **Location:** Salt Lake City, UT | Burbank, CA
-|
+📍 **Location:** Salt Lake City, UT 
+📍 **Location:** Burbank, CA 
 💼 **LinkedIn:** [Charles Langer](https://www.linkedin.com/in/charles-langer-67a765217)  
 📄 **Resume:** <a href ="Charles Langer Resume rev2 (4th Year) (3).pdf"> View my CV (pdf file)</a>
 
