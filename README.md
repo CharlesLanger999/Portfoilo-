@@ -17,7 +17,7 @@ I enjoy taking a problem, understanding how the system needs to operate, and tur
 
 How power flows and relay protections
 
-<a href ="UTA Trax TPSS.pdf"> [Read More] (pdf file)</a>
+<a href ="UTA Trax TPSS.pdf"> [Read More] </a>
 
 **Control Panel Project.**
 
@@ -29,6 +29,21 @@ Here is the back end of the control panel
 
 ![image](Control Panel Back.jpg)
 
+**Senior Project Implantable Antennas.**
+
+Here is my senior project
+
+<a href ="Implantable Antenna Power Point.pdf"> [Read More] </a>
+
+**PID Controller**
+
+Developed a PID Controller
+
+<a href ="Controls Design Part 2.pdf"> [Read More] </a>
+
+
+
+
 
 
 ##CONTACT ME
@@ -38,7 +53,7 @@ Here is the back end of the control panel
 📍 **Location:** Salt Lake City, UT <br>
 📍 **Location:** Burbank, CA <br>
 💼 **LinkedIn:** [Charles Langer](https://www.linkedin.com/in/charles-langer-67a765217)  <br>
-📄 **Resume:** <a href ="Charles Langer Resume rev3 (5th Year).pdf"> View my CV (pdf file)</a>
+📄 **Resume:** <a href ="Charles Langer Resume rev3 (5th Year).pdf"> View my CV </a>
 
 
 
