@@ -13,21 +13,27 @@ I enjoy taking a problem, understanding how the system needs to operate, and tur
 *A glimpse of some of the projects I was talking about.*
 
 **A One-Line Diagram of the Traction Power Substation I helped to design.**
-![image](TPSS 1-line.jpg)
+![Traction Power Substation One Line Diagram](TPSS 1-line.jpg)
+
+
+full ducts
+![Raceway/Cable Schedule](Raceway/Cable Schedule.png)
 
 How power flows and relay protections
 
 <a href ="UTA Trax TPSS.pdf"> [Read More] </a>
 
+---
+
 **Control Panel Project.**
 
 Here is the front end of the control panel
 
-![image](Control Panel Front.JPG)
+![Front of Control Panel](Control Panel Front.JPG)
 
 Here is the back end of the control panel
 
-![image](Control Panel Back.jpg)
+![Back of Control Panel](Control Panel Back.jpg)
 
 ---
 
@@ -45,18 +51,33 @@ As implantable medical devices become smaller with advances in battery technolog
 
 <a href ="Implantable Antenna Power Point.pdf"> Learn more about this project.</a>
 
-**PID Controller**
+---
 
-Developed a PID Controller
+**Classical Control Design**
+Placeholder
+
+placeholder
+![Step Response of tuned PID](Classical Control of Rotating Disks Step Response.png)
+
+
+placeholder
+
+![Step Response of tuned PID](Classical Control of Rotating Disk.png)
+
+
+
 
 <a href ="Controls Design Part 2.pdf"> [Read More] </a>
 
 
+---
 
 
 
 
-##CONTACT ME
+
+
+## CONTACT ME
 
 📧 **Email:** [charleslanger999@gmail.com](mailto:charleslanger999@gmail.com)  
 📱 **Phone:** [(747) 255-9982](tel:+17472559982)  
