@@ -29,19 +29,21 @@ Here is the back end of the control panel
 
 ![image](Control Panel Back.jpg)
 
+---
+
 **Senior Project - Implantable Antennas.** 
 
-As implantable medical devices become smaller with advances in battery technology, mm-scale antennas face challenges in wireless signal reception. This project investigates injectable, passive, flexible focusing antennas designed to improve RF signal coupling. We optimized antenna diameter, length, angle, tip gap, and spacing from the receiving coil and evaluated performance in saline solution and pork tissue to approximate human biological environments.
+As implantable medical devices become smaller with advances in battery technology, mm-scale antennas face challenges in wireless signal transmission and reception. This project investigates injectable, passive, flexible focusing antennas designed to improve RF signal coupling. We optimized antenna diameter, length, angle, tip gap, and spacing from the receiving coil and evaluated performance in saline solution and pork tissue to approximate human biological environments.
 
-A picture of the setup we used to approixmate blood
+**Saline solution setup used to find optimized antenna parameters**
 
-![image](Senior Project Saline Setup.png)
+![Saline Solution Setup](Senior Project Saline Setup.png)
 
-A picture of the pork setup we used to test our optimized antenna 
+**Pork tissue setup used to evaluate optimized antenna**
 
-![image](Senior Project Pork Setup.png)
+![Pork Tissue Setup](Senior Project Pork Setup.png)
 
-<a href ="Implantable Antenna Power Point.pdf"> [If you would like to learn more about this project, click here] </a>
+<a href ="Implantable Antenna Power Point.pdf"> Learn more about this project.</a>
 
 **PID Controller**
 
