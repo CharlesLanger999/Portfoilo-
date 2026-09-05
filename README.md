@@ -17,7 +17,7 @@ I enjoy taking a problem, understanding how the system needs to operate, and tur
 
 
 full ducts
-![Raceway/Cable Schedule](Raceway/Cable Schedule.png)
+![Raceway/Cable Schedule](Raceway_Cable Schedule.png)
 
 How power flows and relay protections
 
@@ -57,12 +57,12 @@ As implantable medical devices become smaller with advances in battery technolog
 Placeholder
 
 placeholder
-![Step Response of tuned PID](Classical Control of Rotating Disks Step Response.png)
+![Step Response of tuned PID](Classical Control of Rotating Disks Step Response.jpg)
 
 
 placeholder
 
-![Step Response of tuned PID](Classical Control of Rotating Disk.png)
+![Step Response of tuned PID](Classical Control of Rotating Disk.jpg)
 
 
 
