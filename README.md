@@ -13,6 +13,7 @@ I enjoy taking a problem, understanding how the system needs to operate, and tur
 *A glimpse of some of the projects I was talking about.*
 
 ---
+**Traction Power Substation (TPSS) Design**
 
 Designed a traction power substation for a 3-car light rail vehicle, including traction power distribution, transformer and rectifier sizing, protective relaying, and emergency trip systems.
 
@@ -24,19 +25,19 @@ Designed a traction power substation for a 3-car light rail vehicle, including t
 
 ![Raceway/Cable Schedule](Raceway_Cable Schedule.png)
 
-How power flows and relay protections
-
 <a href ="UTA Trax TPSS.pdf"> View the full project report</a>
 
 ---
 
-**Control Panel Project.**
+**PLC Control Panel — Sump Pump System**
 
-Here is the front end of the control panel
+Translated mechanical requirements into electrical controls and PLC ladder logic for a dual-pump sump system. Engineered and built a low-cost control panel prototype with PLC I/O, control wiring, switches, and status indicators.
+
+**Front view of the control panel showing pump status, level alarms, Auto/Off/Test controls, and system indicators.**
 
 ![Front of Control Panel](Control Panel Front.JPG)
 
-Here is the back end of the control panel
+**Back view showing the PLC, control wiring, simulated field inputs, and panel I/O connections.**
 
 ![Back of Control Panel](Control Panel Back.jpg)
 
@@ -58,7 +59,7 @@ As implantable medical devices become smaller with advances in battery technolog
 
 ---
 
-**Classical Control Design**
+**Classical Control Design - Flexible System**
 
 Designed a controller for a flexible two-disk system to track a 60° position command while maintaining system stability and minimizing the angle difference between the disks.
 Used MATLAB to analyze the system through Bode plots and root-locus analysis, and iteratively developed PI, PD, and PID controllers to meet the system requirements. 
