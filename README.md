@@ -12,16 +12,21 @@ I enjoy taking a problem, understanding how the system needs to operate, and tur
 ## MY PORTFOLIO
 *A glimpse of some of the projects I was talking about.*
 
-**A One-Line Diagram of the Traction Power Substation I helped to design.**
+---
+
+Designed a traction power substation for a 3-car light rail vehicle, including traction power distribution, transformer and rectifier sizing, protective relaying, and emergency trip systems.
+
+**Traction power substation one-line diagram showing the overall electrical power distribution.**
+
 ![Traction Power Substation One Line Diagram](TPSS 1-line.jpg)
 
+**Raceway and cable schedule showing the electrical connections and cable routing throughout the system.**
 
-full ducts
 ![Raceway/Cable Schedule](Raceway_Cable Schedule.png)
 
 How power flows and relay protections
 
-<a href ="UTA Trax TPSS.pdf"> [Read More] </a>
+<a href ="UTA Trax TPSS.pdf"> View the full project report</a>
 
 ---
 
@@ -60,7 +65,7 @@ Used MATLAB to analyze the system through Bode plots and root-locus analysis, an
 
 **Flexible two-disk system model showing the motor-driven Disk 1 and flexible Disk 2.**
 
-![System Model](Classical_Control_of_Rotating_Disk.jpg)
+![System Model](Classical Control of Rotating Disks.jpg)
 
 **Tuned PID step response for a 60° input, showing disk responses, angle error, and controller output.**
 
