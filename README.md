@@ -55,25 +55,20 @@ As implantable medical devices become smaller with advances in battery technolog
 
 **Classical Control Design**
 
-placeholder
+Designed a controller for a flexible two-disk system to achieve a 60° position while maintaining system stability and minimizing the angle difference between the disks. Used MATLAB to analyze the system through Bode plots and root-locus analysis and iteratively developed PI, PD, and PID controllers to meet the system requirements. 
 
+**Flexible two-disk system model showing the motor-driven Disk 1 and flexible Disk 2.**
 
 ![System Model](Classical Control of Rotating Disk.jpg)
 
-
-placeholder
+**Tuned PID step response for a 60° input, showing disk responses, angle error, and controller output.**
 
 ![Step Response of tuned PID](Classical Control of Rotating Disks Step Response.jpg)
 
-
-
-<a href ="Controls Design Part 2.pdf"> [Read More] </a>
+<a href ="Controls Design Part 2.pdf"> View the full project report -></a>
 
 
 ---
-
-
-
 
 
 
