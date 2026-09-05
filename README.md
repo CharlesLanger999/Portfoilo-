@@ -54,16 +54,14 @@ As implantable medical devices become smaller with advances in battery technolog
 ---
 
 **Classical Control Design**
-Placeholder
+
+placeholder
+
+![System Model](Classical Control of Rotating Disk.jpg)
+
 
 placeholder
 ![Step Response of tuned PID](Classical Control of Rotating Disks Step Response.jpg)
-
-
-placeholder
-
-![Step Response of tuned PID](Classical Control of Rotating Disk.jpg)
-
 
 
 
