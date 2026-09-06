@@ -35,6 +35,8 @@ Translated mechanical requirements into electrical controls and PLC ladder logic
 
 **Front view of the control panel showing pump status, level alarms, Auto/Off/Test controls, and system indicators.**
 
+Scenario: Tested lead/lag pump operation by starting SP-1 as the lead pump and simulating rising water to activate SP-2. A seal failure was simulated on SP-2 to verify the trouble light activated and the pump shut off.
+
 ![Front of Control Panel](Control Panel Front.JPG)
 
 **Back view showing the PLC, control wiring, simulated field inputs, and panel I/O connections.**
