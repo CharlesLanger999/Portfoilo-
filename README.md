@@ -88,7 +88,7 @@ Used MATLAB to analyze the system through Bode plots and root-locus analysis, an
 📍 **Location:** Salt Lake City, UT <br>
 📍 **Location:** Burbank, CA <br>
 💼 **LinkedIn:** [Charles Langer](https://www.linkedin.com/in/charles-langer-67a765217)  <br>
-📄 **Resume:** <a href ="Charles Langer Resume rev3 (5th Year).pdf"> View my CV </a>
+📄 **Resume:** <a href ="Charles Langer Resume rev4 (5th Year).pdf"> View my CV </a>
 
 
 
