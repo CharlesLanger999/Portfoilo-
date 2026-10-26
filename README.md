@@ -78,18 +78,25 @@ Used MATLAB to analyze the system through Bode plots and root-locus analysis, an
 
 ---
 
+
 ## EDUCATION & SKILLS
 
-**Education**
-B.S. in Electrical Engineering | University of Utah
-Power Engineering Emphasis | GPA: 3.85 | December 2026
+**Education**  
+B.S. in Electrical Engineering | University of Utah  
+Power Engineering Emphasis | GPA: 3.85 | Expected December 2026
 
 **Technical Skills**
+
 **Power Systems:** Power system analysis, substation design, transformers, protective relaying
+
 **Controls:** PLC ladder logic, PID control, MATLAB modeling and analysis
+
 **Electrical Design:** AutoCAD, Revit, electrical one-line diagrams, wiring diagrams, raceway and cable schedules
+
 **Programming:** MATLAB, Python, Java
+
 **Standards:** IEEE standards, NFPA 70 (NEC), NFPA 130
+
 
 
 ---
