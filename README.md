@@ -80,11 +80,15 @@ Used MATLAB to analyze the system through Bode plots and root-locus analysis, an
 
 ## EDUCATION & SKILLS
 
-**Education** 
-B.S. in Electrical Engineering — University of Utah  
-Power Engineering Emphasis | GPA: 3.85 | Expected December 2026
+### Education
 
-**Technical Skills**
+**Bachelor of Science in Electrical Engineering, GPA: 3.85**  
+University of Utah, Salt Lake City  
+Power Engineering Emphasis | 7-Time Dean's List
+
+---
+
+### Technical Skills
 
 | Category | Skills |
 |---|---|
