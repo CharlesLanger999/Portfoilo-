@@ -1,19 +1,18 @@
 
 <!--Section 1: Introduce yourself-->
 ## ABOUT ME
+Engineer 1 at PacifiCorp | Substation Engineering Standards
 
-Hello! I'm Charles Langer. I'm a senior Electrical Engineering student at the University of Utah, graduating in December 2026, 
-with an emphasis in power engineering and a 3.85 GPA.  I'm particularly interested in power systems, controls, and electrical design. 
+I am an Engineer 1 at PacifiCorp in Substation Engineering Standards, with a background in Electrical Engineering from the University of Utah. I graduated with a 3.85 GPA and an emphasis in Power Engineering. My technical interests include power systems, protection and control systems, and electrical design.
 
-Through my coursework, research, and hands-on projects, I've gained hands-on experience designing a traction power substation, developing and tuning PID controllers in MATLAB, and designed, wired, and programmed a functional control panel prototype for a sump pump system. These experiences have strengthened my ability to take a system requirement and turn it into a practical solution.  
+My engineering project experience includes traction power substation design, PLC-based control panel development, RF antenna research, and classical control system design. Through these projects, I have applied electrical system analysis, protective relaying concepts, PLC programming, troubleshooting, MATLAB modeling, and electrical design principles to develop and evaluate practical engineering solutions.
 
-I enjoy taking a problem, understanding how the system needs to operate, and turning that into a practical electrical solution. I’m looking for an opportunity where I can apply my engineering skills, gain more hands-on experience, and contribute to real-world power or controls projects.
+I am committed to continuing to develop my technical expertise and applying engineering principles to support the design, performance, and reliability of electrical power systems.
 
-## MY PORTFOLIO
-*A glimpse of some of the projects I was talking about.*
+## ENGINEERING PROJECTS
 
 ---
-**Traction Power Substation (TPSS) Design**
+**Traction Power Substation (TPSS) Design Project**
 
 Designed a traction power substation for a 3-car light rail vehicle, including traction power distribution, transformer and rectifier sizing, protective relaying, and emergency trip systems.
 
@@ -29,7 +28,7 @@ Designed a traction power substation for a 3-car light rail vehicle, including t
 
 ---
 
-**PLC Control Panel — Sump Pump System**
+**PLC-Based Control System — Dual Sump Pump Prototype**
 
 Translated mechanical requirements into electrical controls and PLC ladder logic for a dual-pump sump system. Engineered and built a low-cost control panel prototype with PLC I/O, control wiring, switches, and status indicators.
 
@@ -45,7 +44,7 @@ Scenario: Tested lead/lag pump operation by starting SP-1 as the lead pump and s
 
 ---
 
-**Senior Project - Implantable Antennas.** 
+**RF Engineering Research – Implantable Antennas** 
 
 As implantable medical devices become smaller with advances in battery technology, mm-scale antennas face challenges in wireless signal transmission and reception. This project investigates injectable, passive, flexible focusing antennas designed to improve RF signal coupling. We optimized antenna diameter, length, angle, tip gap, and spacing from the receiving coil and evaluated performance in saline solution and pork tissue to approximate human biological environments.
 
@@ -57,11 +56,11 @@ As implantable medical devices become smaller with advances in battery technolog
 
 ![Pork Tissue Setup](Senior Project Pork Setup.png)
 
-<a href ="Implantable Antenna Power Point.pdf"> Learn more about this project.</a>
+<a href ="Implantable Antenna Power Point.pdf"> View Project Presentation</a>
 
 ---
 
-**Classical Control Design - Flexible System**
+**Classical Control Systems Design – Flexible Rotating System**
 
 Designed a controller for a flexible two-disk system to track a 60° position command while maintaining system stability and minimizing the angle difference between the disks.
 Used MATLAB to analyze the system through Bode plots and root-locus analysis, and iteratively developed PI, PD, and PID controllers to meet the system requirements. 
@@ -74,11 +73,26 @@ Used MATLAB to analyze the system through Bode plots and root-locus analysis, an
 
 ![Step Response of tuned PID](Classical Control of Rotating Disks Step Response.jpg)
 
-<a href ="Controls Design Part 2.pdf"> View the full project report -></a>
+<a href ="Controls Design Part 2.pdf"> View Technical Report </a>
 
 
 ---
 
+## EDUCATION & SKILLS
+
+**Education**
+B.S. in Electrical Engineering | University of Utah
+Power Engineering Emphasis | GPA: 3.85 | December 2026
+
+**Technical Skills**
+**Power Systems:** Power system analysis, substation design, transformers, protective relaying
+**Controls:** PLC ladder logic, PID control, MATLAB modeling and analysis
+**Electrical Design:** AutoCAD, Revit, electrical one-line diagrams, wiring diagrams, raceway and cable schedules
+**Programming:** MATLAB, Python, Java
+**Standards:** IEEE standards, NFPA 70 (NEC), NFPA 130
+
+
+---
 
 
 ## CONTACT ME
@@ -86,9 +100,9 @@ Used MATLAB to analyze the system through Bode plots and root-locus analysis, an
 📧 **Email:** [charleslanger999@gmail.com](mailto:charleslanger999@gmail.com)  
 📱 **Phone:** [(747) 255-9982](tel:+17472559982)  
 📍 **Location:** Salt Lake City, UT <br>
-📍 **Location:** Burbank, CA <br>
-💼 **LinkedIn:** [Charles Langer](https://www.linkedin.com/in/charles-langer-67a765217)  <br>
-📄 **Resume:** <a href ="Charles Langer Resume rev4 (5th Year).pdf"> View my CV </a>
+💼 **LinkedIn:** [Charles Langer](https://www.linkedin.com/in/charleslanger)  <br>
+📄 **Resume:** <a href ="Charles Langer Resume rev5 (5th Year).pdf"> View my Resume </a>
+
 
 
 
